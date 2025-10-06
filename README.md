@@ -7,17 +7,6 @@
 
 
 ## 🧩 Projects
-### 🔹 [Diabetes Food Tracker App](https://github.com/AdenikeOloyede/DiaBites)
-A complete Android app that tracks daily meals and nutritional data using Firebase and Room Database.
-
-### 🔹 [Craps Game App](https://github.com/AdenikeOloyede/CrapsGame)
-A fun Java-based game simulating real casino gameplay.
-
-### 🔹 [Data Visualization Project](https://github.com/AdenikeOloyede/DiabeticDataViz)
-Analyzes diabetic data using Python and Matplotlib for insights.
-
-### 🔹 [Data Visualization Project](https://github.com/AdenikeOloyede/HousePriceTrend.git)
-Analyzes House Price data using Tableau for insights.
 
 ## 🛠 Skills
 - Languages: Java, Python, JavaScript  
