@@ -12,6 +12,9 @@ A data visualization project analyzing housing price trends and market insights.
 **Tech Stack:** Tableau
 
 
+### 🔹 [Diabetes Food Tracker App](https://github.com/AdenikeOloyede/DiaBites)
+An Android app that helps track meals, nutrition, and daily summaries for diabetic users.
+
 ## 🛠 Skills
 - Languages: Java, Python, JavaScript  
 - Tools: Git, Firebase, Android Studio, React, VS Code  
