@@ -8,7 +8,7 @@
 
 ## 🧩 Projects
 ### 🔹 [Housing Project](https://github.com/AdenikeOloyede/Housing-Project)
-A Python data visualization project analyzing housing price trends and market insights.  
+A data visualization project analyzing housing price trends and market insights.  
 **Tech Stack:** Tableau
 
 
