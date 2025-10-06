@@ -7,7 +7,7 @@
 
 
 ## 🧩 Projects
-### 🔹 [Diabetes Food Tracker App](https://github.com/AdenikeOloyede/DiabetesFoodTracker)
+### 🔹 [Diabetes Food Tracker App](https://github.com/AdenikeOloyede/DiaBites)
 A complete Android app that tracks daily meals and nutritional data using Firebase and Room Database.
 
 ### 🔹 [Craps Game App](https://github.com/AdenikeOloyede/CrapsGame)
