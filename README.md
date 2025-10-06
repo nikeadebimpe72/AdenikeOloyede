@@ -7,7 +7,7 @@
 
 
 ## 🧩 Projects
-### 🔹 [Housing Project](https://github.com/AdenikeOloyede/Housing-Project)
+### 🔹 [Housing Project](https://github.com/nikeadebimpe72/Housing-Cost-Analysis)
 A data visualization project analyzing housing price trends and market insights.  
 **Tech Stack:** Tableau
 
