@@ -16,6 +16,9 @@ A fun Java-based game simulating real casino gameplay.
 ### 🔹 [Data Visualization Project](https://github.com/AdenikeOloyede/DiabeticDataViz)
 Analyzes diabetic data using Python and Matplotlib for insights.
 
+### 🔹 [Data Visualization Project](https://github.com/AdenikeOloyede/HousePriceTrend)
+Analyzes House Price data using Tableau for insights.
+
 ## 🛠 Skills
 - Languages: Java, Python, JavaScript  
 - Tools: Git, Firebase, Android Studio, React, VS Code  
