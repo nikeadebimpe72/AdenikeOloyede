@@ -9,6 +9,7 @@
 ## 🧩 Projects
 
 ### Data Analytics & Data Science
+🔹 [Different stages of Data Analysis](https://github.com/nikeadebimpe72/Data-Analysis)
 🔹 [Housing Project](https://github.com/nikeadebimpe72/Housing-Cost-Analysis)
 A data visualization project analyzing housing price trends and market insights.  
 **Tech Stack:** Tableau
