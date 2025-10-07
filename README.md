@@ -15,8 +15,8 @@ A data visualization project analyzing housing price trends and market insights.
 
 
 ### Mobile Application
-🔹 [Some Mobile App Project]([https://github.com/nikeadebimpe72/Mobile-Applications])
-🔹 [Diabetes Food Tracker App]([https://github.com/AdenikeOloyede/Diabites])
+🔹 [Some Mobile App Project](https://github.com/nikeadebimpe72/Mobile-Applications)
+🔹 [Diabetes Food Tracker App](https://github.com/AdenikeOloyede/Diabites)
 An Android app that helps track meals, nutrition, and daily summaries for diabetic users.
 
 ## 🛠 Skills
