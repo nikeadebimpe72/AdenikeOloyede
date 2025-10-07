@@ -28,6 +28,7 @@ Command line integration and extension of tools in cybersecurity
 ### Data Analytics & Data Science
 🔹 [Different stages of Data Analysis](https://github.com/nikeadebimpe72/Data-Analysis)
 🔹 [Housing Project](https://github.com/nikeadebimpe72/Housing-Cost-Analysis)
+🔹  [SQL](https://github.com/nikeadebimpe72/SQL)
 ### A data visualization project analyzing housing price trends and market insights.  
 🔹  [Data Visualization](https://github.com/nikeadebimpe72/Data-Visualization)
 
