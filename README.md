@@ -2,17 +2,20 @@
 💻 Technical Support Specialist | 🎓 Post-Baccalaureate Computing and Information System | 🌍 Based in British Columbia, Canada  
 
 ## 🚀 About Me
-- Passionate about IT support, cybersecurity, and technology innovation  
+- Passionate about IT support, cybersecurity, Data Analytics and technology innovation  
 - Experienced in troubleshooting, networking, and system administration  
 
 
 ## 🧩 Projects
-### 🔹 [Housing Project](https://github.com/nikeadebimpe72/Housing-Cost-Analysis)
+
+### Data Analytics & Data Science
+🔹 [Housing Project](https://github.com/nikeadebimpe72/Housing-Cost-Analysis)
 A data visualization project analyzing housing price trends and market insights.  
 **Tech Stack:** Tableau
 
 
-### 🔹 [Diabetes Food Tracker App](https://github.com/AdenikeOloyede/DiaBites)
+### Mobile Application
+🔹 [Diabetes Food Tracker App](https://github.com/AdenikeOloyede/DiaBites)
 An Android app that helps track meals, nutrition, and daily summaries for diabetic users.
 
 ## 🛠 Skills
