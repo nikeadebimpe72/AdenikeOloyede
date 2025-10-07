@@ -8,6 +8,22 @@
 
 ## 🧩 Projects
 
+### Scripting and cryptography
+🔹  [Hashing $ Cryptography](https://github.com/nikeadebimpe72/Scripting-Cryptography)
+**Tech Stack:** Kali Linux, powershell, Ubuntu ,Flow control
+Handling User Input/Output
+Strings and Regular Expressions
+Functions
+Lists/Tuples/Arrays/Collections
+File Input/Output
+Error handling and debugging approaches
+Batch processes, tasks, and reports for cyber security practices
+Scripts in Bash, Python and PowerShell
+Systems Administration automation in Linux and Windows
+Screen/web scraping and other custom reconnaissance methods
+Log file Analysis and Automation
+Command line integration and extension of tools in cybersecurity
+
 ### Data Analytics & Data Science
 🔹 [Different stages of Data Analysis](https://github.com/nikeadebimpe72/Data-Analysis)
 🔹 [Housing Project](https://github.com/nikeadebimpe72/Housing-Cost-Analysis)
