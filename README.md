@@ -10,6 +10,7 @@
 
 ### Scripting and cryptography
 🔹  [Hashing $ Cryptography](https://github.com/nikeadebimpe72/Scripting-Cryptography)
+🔹  [Powershell](https://github.com/nikeadebimpe72/Forensic-Evidence-Imaging)
 **Tech Stack:** Kali Linux, powershell, Ubuntu ,Flow control
 Handling User Input/Output
 Strings and Regular Expressions
